@@ -1,0 +1,10 @@
+Principais tipos de Estruturas de Dados:
+
+Vetores e Matrizes
+Registro
+Lista
+Pilha
+Fila 
+Árvore
+Tabela Hash
+Grafos
